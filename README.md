@@ -78,8 +78,6 @@ Task Manager allows users to efficiently manage projects and tasks through a use
    - Upload and attach files to tasks or projects.
    - Easily access all necessary documents and resources in one place.
 
-🎉 **Thanks for reading!** 🌟  
-jdjsdsd
 
 
 
